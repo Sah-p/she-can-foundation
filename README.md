@@ -40,4 +40,3 @@ Open `index.html` in your browser or run it using the VS Code Live Server extens
 **Sahana Sathish Poojary**
 MCA Student | Full Stack Development Enthusiast
 
-Created for the She Can Foundation Full Stack Development Internship Selection Task.
