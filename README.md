@@ -15,11 +15,6 @@ GitHub Repository: https://github.com/Sah-p/she-can-foundation
 * Responsive Design for mobile, tablet, and desktop
 * Smooth hover animation for enhanced user experience
 
-## 🛠️ Built With
-
-* HTML5
-* CSS3
-* JavaScript (Vanilla JS)
 
 ## 📁 Project Structure
 
