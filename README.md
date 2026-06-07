@@ -53,7 +53,7 @@ Open `she-can-foundation.html` in your browser or run it using the VS Code Live 
 
 ## 👤 Author
 
-**Sahana Sathish Poojary**
+**Sahana Sathish Poojary**             
 MCA Student | Full Stack Development Enthusiast
 
 Created for the She Can Foundation Full Stack Development Internship Selection Task.
