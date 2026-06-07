@@ -20,7 +20,7 @@ GitHub Repository: https://github.com/Sah-p/she-can-foundation
 
 ```text
 she-can-foundation/
-├── she-can-foundation.html
+├── index.html
 └── README.md
 ```
 
