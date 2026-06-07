@@ -2,7 +2,6 @@
 
 A responsive contact form website created for the **She Can Foundation Full Stack Development Internship** selection task.
 
-
 ## 📂 Repository
 
 GitHub Repository: https://github.com/Sah-p/she-can-foundation
@@ -40,7 +39,7 @@ git clone https://github.com/Sah-p/she-can-foundation.git
 
 ### Open the Project
 
-Open `index.html` in your browser or run it using the VS Code Live Server extension.
+Open `she-can-foundation.html` in your browser or run it using the VS Code Live Server extension.
 
 ## 🎯 Internship Task Requirements Covered
 
