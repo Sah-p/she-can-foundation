@@ -1,6 +1,6 @@
 # She Can Foundation – Contact Form Website
 
-A responsive contact form website created for the **She Can Foundation Full Stack Development Internship** selection task.
+A responsive contact form website created for the She Can Foundation Full Stack Development Internship selection task.
 
 ## 📂 Repository
 
@@ -14,7 +14,6 @@ GitHub Repository: https://github.com/Sah-p/she-can-foundation
 * Submit Button with success message display
 * Responsive Design for mobile, tablet, and desktop
 * Smooth hover animation for enhanced user experience
-
 
 ## 📁 Project Structure
 
@@ -34,10 +33,11 @@ git clone https://github.com/Sah-p/she-can-foundation.git
 
 ### Open the Project
 
-Open `she-can-foundation.html` in your browser or run it using the VS Code Live Server extension.
-
+Open `index.html` in your browser or run it using the VS Code Live Server extension.
 
 ## 👤 Author
 
-**Sahana Sathish Poojary**             
+**Sahana Sathish Poojary**
 MCA Student | Full Stack Development Enthusiast
+
+Created for the She Can Foundation Full Stack Development Internship Selection Task.
