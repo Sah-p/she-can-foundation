@@ -41,15 +41,6 @@ git clone https://github.com/Sah-p/she-can-foundation.git
 
 Open `she-can-foundation.html` in your browser or run it using the VS Code Live Server extension.
 
-## 🎯 Internship Task Requirements Covered
-
-* ✅ Name Field
-* ✅ Email Field
-* ✅ Message Field
-* ✅ Submit Button
-* ✅ Form Submitted Successfully Message
-* ✅ Basic Form Validation
-* ✅ Responsive User Interface
 
 ## 👤 Author
 
