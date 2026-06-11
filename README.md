@@ -38,5 +38,5 @@ Open `index.html` in your browser or run it using the VS Code Live Server extens
 ## 👤 Author
 
 **Sahana Sathish Poojary**
-MCA Student | Full Stack Development Enthusiast
+
 
